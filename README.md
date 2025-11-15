@@ -19,9 +19,9 @@ Google Colab, Python (Pandas, Matplotlib, Seaborn)
 3. Churn Insights & Patterns  
 
 **Key Visualizations:**  
-![Churn by Contract Type]
-![Monthly Charges vs Churn]
-![Payment Method vs Churn]
+1. Churn by Contract Type
+2. Monthly Charges vs Churn
+3. Payment Method vs Churn
 
 **Key Insights:**  
 - Highest churn observed in month-to-month contract customers  
