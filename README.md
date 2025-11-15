@@ -20,4 +20,4 @@ https://docs.google.com/spreadsheets/d/1lkmXSH3c7vD_SqrxlGPeHsJGmGjxirB4/edit?us
 
  
 Hruthik SH - Data Analyst Enthusiast
-linkedin profile linkedin.com/in/hruthik-s-hunugund-841a50329
+linkedin profile - https://www.linkedin.com/in/hruthik-s-hunugund-841a50329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
