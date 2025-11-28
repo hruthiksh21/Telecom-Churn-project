@@ -1,39 +1,47 @@
 # Telecom Churn Analysis
 
-**Objective:**  
-Predict and analyze customer churn in a telecom company using historical customer data.
+## Objective
+The main objective of this project is to analyze customer churn in a telecom company, identify patterns, and provide insights to reduce churn and improve customer retention.
 
-**Tools Used:**  
-Google Colab, Python (Pandas, Matplotlib, Seaborn)
+## Tools Used
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
-*Dataset:*  
-- Source: Telecom customer dataset  
-- Rows/Columns: 7,000 rows × 10 columns  
-- Features: CustomerID, Gender, SeniorCitizen, Partner, Dependents, Tenure, PhoneService, MonthlyCharges, TotalCharges, Churn  
-- Description: Contains information about telecom customers, their services, contracts, and churn status.
+## Dataset
+The dataset contains telecom customer information, including:
+- Customer demographics
+- Account information
+- Usage patterns
+- Churn status
 
+## Steps Taken
+1.  Data Collection & Loading* – Import dataset and check basic info.
+2.  Data Cleaning* – Handle missing values and encode categorical variables.
+3.  Exploratory Data Analysis (EDA)* – Analyze trends and visualize key features.
+4.  Feature Selection* – Identify important features affecting churn.
+5.  Modeling (Optional)* – Build predictive models to forecast churn (if required).
+6.  Visualization* – Create charts and graphs for insights.
 
-**Steps Taken:**  
-1. Data Cleaning & Preprocessing  
-2. Exploratory Data Analysis (e.g., visualization ,churn vs monthly charges, contract type, payment method)  
-3. Churn Insights & Patterns  
+## Key Visualizations
+- Churn distribution among customers
+- Correlation heatmap of features
+- Monthly charges vs. churn rate
+- Tenure vs. churn rate
+- Service-wise churn comparison
 
-**Key Visualizations:**  
-1. Churn by Contract Type
-2. Monthly Charges vs Churn
-3. Payment Method vs Churn
+## Key Insights
+- Customers with higher monthly charges tend to churn more.
+- Shorter-tenured customers are more likely to leave.
+- Certain services (like streaming or tech support) impact churn rate significantly.
+- Contract type (monthly vs. yearly) influences customer retention.
 
-**Key Insights:**  
-- Highest churn observed in month-to-month contract customers  
-- Customers using electronic checks have higher churn rate  
-- Senior citizens tend to stay longer and churn less  
-- Customers with higher monthly charges show slightly higher churn  
-- Customers with no partner or dependents are more likely to churn  
-- Paperless billing users churn slightly more than others  
-- Recommendation: Offer loyalty programs and discounts to month-to-month and high-risk customers, focus on customer retention for electronic check users.
-
-**Conclusion:**  
-This analysis identifies patterns in customer churn and suggests actionable steps for retention.
+## Conclusion
+The analysis highlights critical factors affecting customer churn. Telecom companies can focus on pricing strategies, customer engagement, and service improvements to reduce churn and retain customers
 
 
 [Download the cleaned dataset]
