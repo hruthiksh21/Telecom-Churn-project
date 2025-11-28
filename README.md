@@ -35,7 +35,7 @@ Google Colab, Python (Pandas, Matplotlib, Seaborn)
 **Conclusion:**  
 This analysis identifies patterns in customer churn and suggests actionable steps for retention.
 
-![Project Banner](image-name.png)
+![Project Banner](banner-telecom-churn.png)
 
 [Download the cleaned dataset]
 https://docs.google.com/spreadsheets/d/1lkmXSH3c7vD_SqrxlGPeHsJGmGjxirB4/edit?usp=sharing&ouid=109490057503958008370&rtpof=true&sd=true
